@@ -1,4 +1,8 @@
 # SmartProj
 Projeto com o SmartCampusMaua.
 
-Link para a documentação do Smart: https://github.com/SmartCampusMaua/Docs/tree/doc/analytics/Tools/Analytics/Pandas
+Documentação do Smart: https://github.com/SmartCampusMaua/Docs/tree/doc/analytics/Tools/Analytics/Pandas
+Documentação Streamlit: https://streamlit.io/
+
+Para rodar o códico python com o StreamLit: 
+python -m streamlit run test.py
