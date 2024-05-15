@@ -11,7 +11,7 @@ api_url = "https://smartcampus-k8s.maua.br/api/timeseries/v0.1/smartcampusmaua/S
 data = get_data(api_url)
 
 df = pd.DataFrame(data)
-# print(df.describe())
+print(df)
 
 # colunas: fields, name, tags, timestamp
-print(df['fields'].apply(lambda x: x['data_humidity']))
+# print(df['fields'].apply(lambda x: x['data_humidity']))
