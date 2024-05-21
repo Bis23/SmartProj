@@ -8,7 +8,7 @@ Para rodar o site, siga o passo a passo a seguir:
    `pip install matplotlib.pyplot`  
    `pip install virtualenv`  
 
-2. Vá para o diretória em que o arquivo *"testeStream.py"* se encontra e crie um novo ambiente virtual:  
+2. Vá para o diretório em que o arquivo *"testeStream.py"* se encontra e crie um novo ambiente virtual:  
    `virtualenv nome_da_virtualenv`
 
 3. **Ative** o ambiente virtual que você criou:
