@@ -8,7 +8,7 @@ Para rodar o site, siga o passo a passo a seguir:
    `pip install matplotlib.pyplot`  
    `pip install virtualenv`  
 
-2. Vá para o diretório em que o arquivo *"testeStream.py"* se encontra e crie um novo ambiente virtual:  
+2. Vá para o diretório em que o arquivo *"appStream.py"* se encontra e crie um novo ambiente virtual:  
    `virtualenv nome_da_virtualenv`
 
 3. **Ative** o ambiente virtual que você criou:
@@ -16,9 +16,9 @@ Para rodar o site, siga o passo a passo a seguir:
    - No ambiente *Windows*: `nome_da_virtualenv/Scripts/Activate`  
   
 4. **Rode o site** com o seguinte comando no terminal:  
-   `streamlit run testeStream.py`
+   `streamlit run appStream.py`
 
-5. Acesse o app Streamlit com o link que aparecer no terminal.
+5. Acesse o site (app) com o link que aparecer no terminal.
 
 **OBS:** Os outros arquivos python são testes que foram feitos para a análise de dados, assim como os outos arquivos csv. O único arquivo csv utilizado no app é o *limpeza2*.
   
